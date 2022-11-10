@@ -1,1 +1,1 @@
-# website-using-HTML
+This is a website which is created with help of HTML and some basic fundamentals of CSS. Website is created on selling of coffee beans and coffee mugs, reference of layout of this website is taken from 'BILIKIN COFFEE'. If you find any bugs related to the website, ping me up. 
