@@ -1,0 +1,39 @@
+<html>
+<head>
+<title>coffee beans</title>
+</head>
+<body>
+<table bgcolor="#5C3317">
+<tr><td>
+<table align="center">
+<tr>
+<td><img src="logofinal.png" height=600 width=2500></td>
+<td></td>
+<td style=font-size:160px> <a href="prc.html" style="color: white"><p style=color:white>Home</p></a></td>
+<td style=font-size:160px> <a href="coffee.html" style="color: white"><p style=color:white>&emsp;Coffee</p></a></td>
+<td style=font-size:160px> <a href="coffeemug.html" style="color: white"><p style=color:white>&emsp;Coffee Mugs</p></a></td>
+<td style=font-size:160px> <a href="contactus.html" style="color: white"><p style=color:white>&emsp;Contact Us</p></a></td>
+</tr>
+</table>
+</td></tr>
+</table>
+<p style="color:white;background-color:#5C3317;font-size:250px;font-family:times"align="center">
+<b>Well-crafted coffee made simple<br>to enjoy and start your day!</b> 
+</p>
+<p align="center">
+<img  src="abc.jpeg" height=1500 width=4000><br>
+</p>
+<table>
+<tr>
+<td rowspan=3><img src="beans.jpg" width=3000px></td>
+<td><p style="color:#5C3317;font-size:245px;font-family:times"><b>&emsp;Dream Bean Coffee</b></p></td>
+</tr>
+<tr>
+<td><p style="color:brown;font-size:140px" align="center">Straight to your doorstep. We<br>don't roast our beans until we<br>have your order. Every order is<br>roasted and shipped the same day.</p></td>
+</tr>
+<tr>
+<td align="center"><button style="width:650px; height:200px;background-color:#5C3317;color:white;font-size:80px"><a href="coffee.html" style=color:white>Shop all Coffee</button></td>
+</tr>
+</table>
+</body>
+</html>
