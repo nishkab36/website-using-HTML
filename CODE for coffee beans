@@ -1,0 +1,49 @@
+<html>
+<head>
+<title>coffee</title>
+</head>
+<body>
+<table bgcolor="#5C3317">
+<tr><td>
+<table align="center">
+<tr>
+<td><img src="logofinal.png" height=600 width=2500></td>
+<td></td>
+<td style=font-size:160px> <a href="prc.html" style="color: white"><p style=color:white>Home</p></a></td>
+<td style=font-size:160px> <a href="coffee.html" style="color: white"><p style=color:white>&emsp;Coffee</p></a></td>
+<td style=font-size:160px> <a href="coffeemug.html" style="color: white"><p style=color:white>&emsp;Coffee Mugs</p></a></td>
+<td style=font-size:160px> <a href="contactus.html" style="color: white"><p style=color:white>&emsp;Contact Us</p></a></td>
+</tr>
+</table>
+</td></tr>
+</table><br><br>
+<h1 style="font-size:300px;color:#5C3317"><b>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;COFFEE</h1></b>
+<table style=background-color:#5C3317 height=2000 width=2000 align="center"cellspacing=40px>
+<table style=background-color:#5C3317 height=2000 width=2000 align="center"cellspacing=40px>
+<tr>
+<td><img src="coffee beans.jpg" height=1850 width=1650><br> <p style="font-size:140px;color:white"align="center"><b><u>Peru</b></u><br>Price=₹2499</p>
+<br><p align="center"><button style="width:550px; height:200px;background-color:white;color:#5C3317;font-size:80px"><b>BUY NOW</b></button>
+<td><img src="coffee beans.jpg" height=1850 width=1650><br> <p style="font-size:140px;color:white"align="center"><b><u>Caramel</b></u><br>Price=₹1999</p>
+<br><p align="center"><button style="width:550px; height:200px;background-color:white;color:#5C3317;font-size:80px"><b>BUY NOW</b></button>
+<td><img src="coffee beans.jpg" height=1850 width=1650><br> <p style="font-size:140px;color:white"align="center"><b><u>Costa Rica</b></u><br>Price=₹1499</p>
+<br><p align="center"><button style="width:550px; height:200px;background-color:white;color:#5C3317;font-size:80px"><b>BUY NOW</b></button>
+</tr>
+<tr>
+<td><img src="coffee beans.jpg" height=1850 width=1650><br> <p style="font-size:140px;color:white"align="center"><b><u>Arabica</b></u><br>Price=₹1499</p>
+<br><p align="center"><button style="width:550px; height:200px;background-color:white;color:#5C3317;font-size:80px"><b>BUY NOW</b></button>
+<td><img src="coffee beans.jpg" height=1850 width=1650><br> <p style="font-size:140px;color:white"align="center"><b><u>French Roast</b></u><br>Price=₹2999</p>
+<br><p align="center"><button style="width:550px; height:200px;background-color:white;color:#5C3317;font-size:80px"><b>BUY NOW</b></button>
+<td><img src="coffee beans.jpg" height=1850 width=1650><br> <p style="font-size:140px;color:white"align="center"><b><u>Cold Brew</b></u><br>Price=₹2499</p>
+<br><p align="center"><button style="width:550px; height:200px;background-color:white;color:#5C3317;font-size:80px"><b>BUY NOW</b></button>
+</tr>
+<tr>
+<td><img src="coffee beans.jpg" height=1850 width=1650><br> <p style="font-size:140px;color:white"align="center"><b><u>African Expresso</b></u><br>Price=₹1999</p>
+<br><p align="center"><button style="width:550px; height:200px;background-color:white;color:#5C3317;font-size:80px"><b>BUY NOW</b></button>
+<td><img src="coffee beans.jpg" height=1850 width=1650><br> <p style="font-size:140px;color:white"align="center"><b><u>Mocha</b></u><br>Price=₹1699</p>
+<br><p align="center"><button style="width:550px; height:200px;background-color:white;color:#5C3317;font-size:80px"><b>BUY NOW</b></button>
+<td><img src="coffee beans.jpg" height=1850 width=1650><br> <p style="font-size:140px;color:white"align="center"><b><u>Cinnamon Hazelnut</b></u><br>Price=₹2899</p>
+<br><p align="center"><button style="width:550px; height:200px;background-color:white;color:#5C3317;font-size:80px"><b>BUY NOW</b></button>
+</tr>
+</table>
+</body>
+</html>
