@@ -1,0 +1,19 @@
+<html>
+<head><title>contact us</title></head>
+<body>
+<form style=background-color:#5C3317 align="center">
+<h1 style=color:white;font-size:50px align="center"> <u>Contact Us</u></h1><br><br><br>
+<p style="color:white;font-size:30px">First Name:<input type="text"><br><br></p>
+<p style="color:white;font-size:30px">Mobile No:<input type="text"><br><br></p>
+<p style="color:white;font-size:30px">Message:<textarea></textarea><br><br></p>
+&emsp;&emsp;&emsp;&emsp;<input type="submit" value="Submit"><br><br><br>
+<table>
+<tr>
+<td style=color:white;font-size:25px width=500px>&emsp;&emsp;&emsp;&emsp;&emsp;Phone No:<br>&emsp;&emsp;&emsp;&emsp;&emsp;3333333333.</td>
+<td style=color:white;font-size:25px width=500px>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Email Us<br>&emsp;&emsp;&emsp;&emsp;dreamcoffee@gmail.com</td>
+<td style=color:white;font-size:25px width=500px>&emsp;&emsp;&emsp;&emsp;&emsp;Location:<br>&emsp;&emsp;&emsp;&emsp;&emsp;Ahmedabad</td>
+</tr>
+</table>
+</form>
+</body>
+</html>
